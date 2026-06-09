@@ -1,0 +1,24 @@
+{
+  "next_iteration": 203,
+  "new_repo_name": "v203",
+  "new_repo_url": "https://github.com/NexusPrime1112/v203",
+  "current_repo": "v202",
+  "snapshot_path": "data/snapshots/iter_202",
+  "belief_count": 7,
+  "memory_stats": {
+    "beliefs": 7,
+    "memories": 28,
+    "interactions": 176,
+    "lineage": 11,
+    "performance": 2,
+    "reflections": 5,
+    "working_memory": 2,
+    "selector_strategies": 0,
+    "source_assets": 4009,
+    "posted_sources": 98,
+    "engaged_sources": 587
+  },
+  "codex_purpose": "Operational memory scaffold for Nexus Prime.",
+  "ancestor_repo": "v202",
+  "private_repo": false
+}
